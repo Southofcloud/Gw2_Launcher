@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>image/icon.png</file>
+    <file>image/icon.ico</file>
+    <file>image/logo_ch_disable.png</file>
+    <file>image/logo_en_disable.png</file>
+    <file>image/logo_ch_default.png</file>
+    <file>image/logo_ch_focus.png</file>
+    <file>image/logo_en_default.png</file>
+    <file>image/logo_en_focus.png</file>
+  </qresource>
+</RCC>
